@@ -1,6 +1,14 @@
 # EVENT CHAIN
 
-eventchain event discovery and management platform
+EventChain event discovery and management platform
+
+Connecting tech enthusiasts with the events that matter most.
+
+## Our Mission
+
+EventChain is dedicated to creating a vibrant ecosystem where technology professionals, enthusiasts, and learners can discover, attend, and organize meaningful events.
+
+We believe in the power of community and knowledge sharing. Our platform makes it easy to find events that align with your interests, connect with like-minded individuals, and stay at the forefront of technological innovation.
 
 ## Problem
 
