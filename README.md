@@ -33,15 +33,27 @@ People miss out important event and found out later about the event online. (It 
 ## SUBMISSION:
 
 email: abdulsalamamtech@gmail.com
+
 name: abdulsalam abdulrahman
+
 phone no: +2349091922467
+
 live url: https://eventchain-ajq.caffeine.xyz/
+
 track = community builder
-X post url: 
-BUIDL documentation
+
+X post url: https://x.com/AbdulsalamTech/status/1994420335966343603
+
+BUIDL documentation: [link](https://github.com/abdulsalamamtech/eventchain/blob/main/documentation.md)
 
 ---
 
+Submission for built with Caffeine AI.
+
+My app name is 'EVENTCHAIN' - connecting tech enthusiasts with the events that matter most.
+
+Demo video: https://www.loom.com/share/09ff7f9fcbae4641a592325b9366ffc9
+
 @caffeine_ai @icphub_NG @ICPHUBS
 #BuiltWithCaffeine #abdulsalamamtech
-#ICP #MOTOKO #DFINITY #AI #WEB3
+#ICP #MOTOKO #DFINITY #AI #Web3
